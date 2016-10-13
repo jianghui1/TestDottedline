@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "19e2814f-dc64-0744-9115-d3aad7cffb6b++636",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "19e2814f-dc64-0744-9115-d3aad7cffb6b++636" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "19e2814f-dc64-0744-9115-d3aad7cffb6b++636" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "231EF840-B600-48D6-9517-AA23322732B5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "19e2814f-dc64-0744-9115-d3aad7cffb6b++636" : "%E8%87%AA%E6%B5%8B\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Test画虚线",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Test画虚线\/Test画虚线.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.liqu.com:8443\/svn\/APP",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "19e2814f-dc64-0744-9115-d3aad7cffb6b++636"
+    }
+  ]
+}
